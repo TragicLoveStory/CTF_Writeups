@@ -147,8 +147,8 @@ nc nc.lagncra.sh 8012
 	![Image showing the regular output of tt.exe](/LNC2023/assets/image13.png)
 4. From investigating the assembly code, we can deduce that address 0x10040118c causes a jump to address 0x100401195 as **tVar1** >= **0x1b6e6** (JG, jump greater, and JNLE, jump not less/equal, are identical. This jump is **what causes** the else condition to execute.). Therefore, we will change JG(jump greater) to JL(jump less) at address 0x10040118c to allow the if condition to pass since **tVar1** >= **0x1b6e6**, allowing **sub_123456** to run which may provide us the flag.  
 	![Image showing the assembly code which was produced by Ghidra](/LNC2023/assets/image10.png)
-5. The change can be done by highlighting the specific address one wants changes to be made, and pressing CTRL + Shift + G (you can also right click -> Patch instruction). Once the change from JG to JL was made, save the changes, export the modified tt.exe and run it to get the flag.
-	![Image showing the modification from JG to JL at address 10040118c](/LNC2023/assets/image11.png)
+5. The change can be done by highlighting the specific address one wants changes to be made, and pressing CTRL + Shift + G (you can also right click -> Patch instruction). Once the change from JG to JL was made, save the changes, export the modified tt.exe and run it to get the flag.  
+	![Image showing the modification from JG to JL at address 10040118c](/LNC2023/assets/image11.png)  
 	![Image showing the modified tt.exe providing us the flag when ran](/LNC2023/assets/image12.png)
 ## Pennyworth
 "Alfred needs help accessing the bat computer. The only thing Alfred got was the Bat Family's image and the following text "The one that got away". It is said that the password can be found in the image. Can you crack the password to the bat computer?" Easy 
