@@ -1,5 +1,5 @@
 # Lag and Crash 2023 write up
-Hello, my name is Ashwyn. I go by the pseudonym "TragicLoveStory" and this is my writeup for Lag and Crash 2023. My team made it into the finals despite all of us being unprepared and my teammates being new to CTF competitions. I have learnt a lot and hope to share what I learnt with others through my writeup.
+Hello, my name is Ashwyn. I go by the pseudonym "TragicLoveStory" and this is my writeup for Lag and Crash 2023. My team made it into the finals despite all of us being unprepared and my teammates being new to CTF competitions. I have learnt a lot and hope to share what I learnt with others through my writeup.  
 ![Image of my team's score](/LNC2023/assets/image18.png)
 
 ## Table of Contents
