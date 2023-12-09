@@ -1,8 +1,8 @@
 # Table Of Contents
 
-1. [Web Baby]#web-baby)
-2. [Ye Olde News Website]#ye-olde-news-website)
-3. [Relic Race]#relic-race)
+1. [Web Baby] (#web-baby)
+2. [Ye Olde News Website] (#ye-olde-news-website)
+3. [Relic Race] (#relic-race)
 
 ## Web Baby
 
