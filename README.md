@@ -6,3 +6,6 @@ This is a repository containing all my challenge writeups from various CTFs! Tha
 
 ### BrainHack Cyber Defenders Discovery camp 2023
 [View my writeups for CDDC2023/BrainHack2023 Here!](https://github.com/TragicLoveStory/CTF_Writeups/tree/main/BrainHack2023)
+
+### STANDCON2023
+[View my writeups for STANDCON23 Here!](https://github.com/TragicLoveStory/CTF_Writeups/tree/main/STANDCON2023)
