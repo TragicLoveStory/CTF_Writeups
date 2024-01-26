@@ -16,7 +16,7 @@ The characters below are the few that are not blacklisted:
 
 ​![image](assets/image-20231209205806-d5jxrso.png)​
 
-Notice how the code takes our user input without sanitizing it. This makes the program vulnerable to **command injection**. After searching through cheatsheets such as **payloadallthethings**, I eventually found out  *$() * can be used for command injection.
+Notice how the code takes our user input without sanitizing it. This makes the program vulnerable to **command injection**. After searching through cheatsheets such as **payloadallthethings**, I eventually found out  $() can be used for command injection.
 
 ​`$(whoami)`​
 
@@ -148,7 +148,7 @@ Decode the qr code using this website:
 * https://products.aspose.app/barcode/recognize#/recognized
 * M1BOSCO/MARK MR       1A11A1 SINLHRBN XXX  331Y26J 37    00
 
-from the ticket, we deduce Mr. Mark is going from Singapore to Harbin. However, that is NOT the location in the image because China drives on the right side of the road, not the left as shown in the image.
+from the ticket, we deduce Mr. Mark is going from Singapore to Harbin. However, that is NOT the location in the image because China drives on the right side of the road, not the left as shown in the image. We eventually found out that the air ticket may refer to London, Heathrow instead and chose to further investigate Heathrow instead of harbin.
 
 As the hint leads to overpass turbo, a graphical mapping tool which utilises openstreetmaps, I utilised a script I found to locate all **gas stations near banks**.
 
