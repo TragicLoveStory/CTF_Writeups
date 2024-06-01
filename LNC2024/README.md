@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Bit Collider](Bit%20Collider.md)
+1. [Bit Collider](Bit%20collider.md)
 2. [Nexioton](Nexioton.md)
 3. [Ferris Wheel](Ferris%20Wheel.md)
 4. [The Elusive Red Herring](The%20Elusive%20Red%20Herring.md)
