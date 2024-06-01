@@ -14,4 +14,4 @@ This is a repository containing all my challenge writeups from various CTFs! Tha
 [LNC2024 Writeups:](https://github.com/TragicLoveStory/CTF_Writeups/tree/main/LNC2024)
 
 ## Brainhack CDDC 2024
-[CDDC2024 Writeups:](https://github.com/TragicLoveStory/CTF_Writeups/tree/main/CDCC2024)
+[CDDC2024 Writeups:](https://github.com/TragicLoveStory/CTF_Writeups/tree/main/CDDC2024)
