@@ -1,4 +1,4 @@
-# Lag & Crash 2024 writeups
+# Brainhack CDDC 2024 writeups
 
 ## Table of Contents
 
