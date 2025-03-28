@@ -15,3 +15,6 @@ This is a repository containing all my challenge writeups from various CTFs! Tha
 
 ## Brainhack CDDC 2024
 [CDDC2024 Writeups:](https://github.com/TragicLoveStory/CTF_Writeups/tree/main/CDDC2024)
+
+## HTB Cyber Apocalypse CTF 2025
+[HTBCA2025 Writeups:](https://github.com/TragicLoveStory/CTF_Writeups/tree/main/HTB%20Cyber%20Apocalypse%202025)
