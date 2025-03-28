@@ -13,4 +13,4 @@
 9. [Embassy](embassy_ai.md)
 10. [Elixir Emporium](elixir_emporium_ai.md)
 
-‍[Access/Download the challenge files here!](/challenge_files)
+‍[Access/Download the challenge files here!](./challenge_files)
