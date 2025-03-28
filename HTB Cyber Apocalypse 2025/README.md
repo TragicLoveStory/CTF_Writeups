@@ -11,6 +11,6 @@
 7. [Mirror Witch](mirror_witch_ai.md)
 8. [Cursed Gatekeeper](cursed_gatekeeper.md)
 9. [Embassy](embassy_ai.md)
-10. [Elixir Emporium](elixir_emporium.md)
+10. [Elixir Emporium](elixir_emporium_ai.md)
 
 ‍
