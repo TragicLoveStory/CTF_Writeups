@@ -18,3 +18,6 @@ This is a repository containing all my challenge writeups from various CTFs! Tha
 
 ## HTB Cyber Apocalypse CTF 2025
 [HTBCA2025 Writeups:](https://github.com/TragicLoveStory/CTF_Writeups/tree/main/HTB%20Cyber%20Apocalypse%202025)
+
+## CYBERLEAGUE25
+[CYBERLEAGUE25 Writeups:](https://github.com/TragicLoveStory/CTF_Writeups/blob/main/CYBERLEAGUE25/Pwn-Dis-File.md)
